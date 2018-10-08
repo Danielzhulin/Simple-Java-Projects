@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"a01077579.data.music","l":"AutoFile"},{"p":"a01077579.data.music","l":"CompactDisk"},{"p":"a01077579.io","l":"FileManager"},{"p":"a01077579","l":"Lab1"},{"p":"a01077579.data","l":"MusicMedia"},{"p":"a01077579.data.music","l":"VinylRecordAlbum"}]
