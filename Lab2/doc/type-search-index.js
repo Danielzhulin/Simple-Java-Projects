@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"a01077579.data","l":"Customer"},{"p":"a01077579.data","l":"Customer.Builder"},{"p":"a01077579.io","l":"CustomerReader"},{"p":"a01077579.io","l":"CustomerReader.CustomerIterator"},{"p":"a01077579.io","l":"CustomerReport"},{"p":"a01077579","l":"Lab2"},{"p":"a01077579.data.util","l":"Validator"}]
